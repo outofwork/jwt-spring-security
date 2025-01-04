@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+org/outofwork/config/WebSecurityConfig.java \
+  org/outofwork/config/CorsConfig.java \
+  org/outofwork/config/JwtConfig.java
